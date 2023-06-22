@@ -23,3 +23,4 @@ source {
 is_noto: true
 languages: "aii_Elym"  # Assyrian Neo-Aramaic, Elymaic
 languages: "xly_Elym"  # Elymian
+primary_script: "Elym"
