@@ -22,3 +22,4 @@ source {
 }
 is_noto: true
 languages: "lez_Aghb"  # Lezghian, Caucasian Albanian
+primary_script: "Aghb"
