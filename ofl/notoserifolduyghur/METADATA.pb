@@ -15,8 +15,11 @@ fonts {
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
+subsets: "old-uyghur"
 source {
   repository_url: "https://github.com/notofonts/old-uyghur.git"
   archive_url: "https://github.com/notofonts/old-uyghur/releases/download/NotoSerifOldUyghur-v1.002/NotoSerifOldUyghur-v1.002.zip"
 }
 is_noto: true
+languages: "oui_Uygh"  # Old Uyghur, Old Uyghur
+primary_script: "Uygh"
